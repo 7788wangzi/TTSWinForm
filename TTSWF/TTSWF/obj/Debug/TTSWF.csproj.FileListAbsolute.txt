@@ -1,0 +1,27 @@
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\TTSWF.exe.config
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\TTSWF.exe
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\TTSWF.pdb
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\obj\Debug\TTSWF.Form1.resources
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\obj\Debug\TTSWF.Properties.Resources.resources
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\obj\Debug\TTSWF.csproj.GenerateResource.Cache
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\obj\Debug\TTSWF.exe
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\obj\Debug\TTSWF.pdb
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\libmp3lame.32.dll
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\libmp3lame.64.dll
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\NAudio.dll
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\NAudio.Lame.dll
+C:\Users\v-qixue.FAREAST\Documents\Visual Studio 2015\Projects\TTSWF\TTSWF\bin\Debug\NAudio.xml
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\TTSWF.exe.config
+E:\CodeLibrary\2015\TTSWF\TTSWF\obj\Debug\TTSWF.exe
+E:\CodeLibrary\2015\TTSWF\TTSWF\obj\Debug\TTSWF.pdb
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\libmp3lame.32.dll
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\libmp3lame.64.dll
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\TTSWF.exe
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\TTSWF.pdb
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\NAudio.dll
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\NAudio.Lame.dll
+E:\CodeLibrary\2015\TTSWF\TTSWF\bin\Debug\NAudio.xml
+E:\CodeLibrary\2015\TTSWF\TTSWF\obj\Debug\TTSWF.csprojResolveAssemblyReference.cache
+E:\CodeLibrary\2015\TTSWF\TTSWF\obj\Debug\TTSWF.Form1.resources
+E:\CodeLibrary\2015\TTSWF\TTSWF\obj\Debug\TTSWF.Properties.Resources.resources
+E:\CodeLibrary\2015\TTSWF\TTSWF\obj\Debug\TTSWF.csproj.GenerateResource.Cache
